@@ -1,2 +1,0 @@
-# drone-warfare
-media outleds
